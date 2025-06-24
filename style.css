@@ -1,0 +1,17 @@
+/* style.css */
+body {
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  #map {
+    height: 80vh;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 5px;
+  }
+  
